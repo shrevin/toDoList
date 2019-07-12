@@ -5,7 +5,7 @@
 //  Created by Apple on 7/12/19.
 //  Copyright © 2019 Apple. All rights reserved.
 //
-
+//GITHUB: YOU ONLY NEED TO COPY AND PASTE STUFF FROM WEBSITE WHEN U PUT REPOSITORY ON INTERNET
 import UIKit
 import CoreData
 

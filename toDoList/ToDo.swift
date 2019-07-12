@@ -9,7 +9,7 @@
 import UIKit
 
 class ToDo {
-    name = ""
-    important = false
+    var name = ""
+    var important = false
 
 }
